@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <!-- Please DO NOT remove this line, all link and script tags will be merged to here -->
+
+    <link rel="stylesheet" type="text/css" href="/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="/css/BabenkoYelyzaveta.css" />
+
+    <script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/headroom.js@0.12.0/dist/headroom.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/px2code/posize/build/v1.01.0.js"></script>
+  </head>
+
+  <body class="flex-column">
+    <main class="babenko-yelyzaveta main">
+      <div class="item">
+        <!-- ======= section1 ======= --> 
+        <section class="section1__section1">
+          <div class="section1__flexCol">
+            <div class="section1__flexRow">
+              <div class="item">
+                <div class="section1__wrapper9">
+                  <div class="section1__rect4"></div>
+                  <div class="section1__flexCol1">
+                    <div class="section1__text1">З чого почнеться наступний тиждень?</div>
+                    <h1 class="section1__big_title">Є-Черга новий сервіс на кордоні</h1>
+                    <h5 class="section1__highlights6">
+                      Починає працювати новий проект держави «Є-ЧЕРГА» на кордоні з Польщею в пункті пропуску Ягодин.
+                      Сервіс запланований лише для вантажних автомобілів.
+                    </h5>
+                  </div>
+                  <h5 class="">
+                    <div class="section1__highlights9">
+                      <span class="section1__highlights9_span0">Но</span
+                      ><span class="section1__highlights9_span1"
+                        >ва та цікава інформація вже чекає в instagram каналі</span
+                      >
+                    </div>
+                  </h5>
+                </div>
+              </div>
+              <div class="spacer"></div>
+              <div class="item1">
+                <div class="section1__wrapper8">
+                  <img class="section1__image4" src="/assets/958e65b10ca0c455664a14c9cd27f3e0.png" alt="alt text" />
+                </div>
+              </div>
+            </div>
+            <hr class="section1__line1" size="1" />
+          </div>
+          <div class="section1__group">
+            <img class="section1__decorator" src="/assets/9d05e68289ad6e55e69175dff0988286.png" alt="alt text" />
+            <div class="section1__flexRow1">
+              <div class="item">
+                <img class="section1__image6" src="/assets/39584949498801bf172bd0791e0dd3f8.png" alt="alt text" />
+              </div>
+              <div class="spacer"></div>
+              <h2 class="section1__medium_title1">Babenko Yelyzaveta</h2>
+            </div>
+          </div>
+          <px-grid x="200px 1427px 0fr" y="677px minmax(227px,439fr) 671fr" absolute="true"
+            ><div class="section1__decorator1" style="--src:url(/assets/84fa707db258b8aa0eb3d72ab1ec0a71.png)"></div
+          ></px-grid>
+        </section>
+        <!-- ======= End section1 ======= --> 
+
+      </div>
+      <div class="item">
+        <!-- ======= section2 ======= --> 
+        <section class="section2__section2">
+          <div class="section2__wrapper7">
+            <h5 class="section2__highlights6">
+              Новини — оперативне інформаційне повідомлення, яке містить суспільно важливу та актуальну інформацію, що
+              стосується певної сфери життя суспільства загалом чи окремих його груп.
+            </h5>
+            <h1 class="section2__big_title2">Інші новини на нашому сайті</h1>
+          </div>
+          <div class="section2__group">
+            <div class="section2__group1">
+              <div class="section2__flexCol">
+                <div class="section2__flexRow">
+                  <div class="item">
+                    <img class="section2__image4" src="/assets/e9c0819deaf8697327a477b96e80ee1c.png" alt="alt text" />
+                  </div>
+                  <div class="spacer"></div>
+                  <div class="item1">
+                    <div class="section2__wrapper6">
+                      <h5 class="">
+                        <div class="section2__highlights7">
+                          <span class="section2__highlights7_span0"></span
+                          ><span class="section2__highlights7_span1">Детальніше</span>
+                        </div>
+                      </h5>
+                      <div class="section2__flexCol1">
+                        <h1 class="section2__big_title1">День Української Державності</h1>
+                        <h5 class="section2__highlights61">
+                          Віднині українці матимуть щорічно додатковий святковий вихідний день – нове офіційне Державне
+                          Свято 28 липня - День Української Державності (Указ Президента України №423/2021 від
+                          24.08.2021р.).
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="section2__flexRow1">
+                  <div class="item">
+                    <div class="section2__flexCol2">
+                      <h1 class="section2__big_title1">Строки для військового обліку жінок</h1>
+                      <h5 class="section2__highlights62">
+                        Жінкам України потрібно стати на військовий облік у військомат за місцем реєстрації вже до кінця
+                        2022 року та чи варто поспішати вирішувати ВАМ. <br /><br />Нажаль, Президент, посилаючись на
+                        ст.17 та ст.24 Конституції України вважає, що захист держави це справа всього Українського
+                        Народу і тут не може бути винятків (привілеїв, обмежень) в тому числі за ознаками статі.  
+                      </h5>
+                      <h5 class="section2__highlights5">Детальніше</h5>
+                    </div>
+                  </div>
+                  <div class="spacer"></div>
+                  <div class="item1">
+                    <img class="section2__image4" src="/assets/29868105b09b9acbdb756df1c1d09ae0.png" alt="alt text" />
+                  </div>
+                </div>
+                <div class="section2__flexRow2">
+                  <div class="item">
+                    <img class="section2__image5" src="/assets/ed042bc3e86a52943f4dc89eb5573432.png" alt="alt text" />
+                  </div>
+                  <div class="spacer"></div>
+                  <div class="item1">
+                    <div class="section2__flexCol3">
+                      <h1 class="section2__big_title1">Відтермінування військового обліку жінок</h1>
+                      <h5 class="section2__highlights63">
+                        В міру своїх повноважень Міністерством оборони України прийнято рішення перенести термін
+                        обв’язкової постановки  жінок на рік тобто на 1 жовтня 2023 р.<br />12 вересня 2022р. Наказ №259
+                        пройшов реєстрацію в Міністерстві юстиції України за номером 1042/38378, але радіти жінкам ще
+                        зарано, тому що цей Наказ набирає чинності з дня його офіційного опублікування.
+                      </h5>
+                      <h5 class="section2__highlights5">Детальніше</h5>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="section2__flexCol4">
+                <div class="section2__wrapper5">
+                  <h5 class="section2__highlights64">
+                    Віднині українці матимуть щорічно додатковий святковий вихідний день – нове офіційне Державне Свято
+                    28 липня - День Української Державності (Указ Президента України №423/2021 від 24.08.2021р.).
+                  </h5>
+                </div>
+                <div class="section2__content_box1">
+                  <h5 class="section2__highlights8">
+                    Отже, Наказ не скасують, а лише повинні: суттєво скоротити перелік спеціальностей та/або професій,
+                    оптимізувати процедуру запровадженням онлайн реєстрації та врегулювати порядок проходження
+                    медогляду.
+                  </h5>
+                </div>
+                <div class="section2__content_box">
+                  <h5 class="section2__highlights81">
+                    Крім того, МОУ звернувся до Верховної Ради України з пропозицією внести зміни до Закону України «Про
+                    військовий обов’язок і військову службу», запровадивши таким чином реально добровільну постановку
+                    жінок на військовий облік.
+                  </h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- ======= End section2 ======= --> 
+
+      </div>
+      <div class="item">
+        <!-- ======= section3 ======= --> 
+        <section class="section3__section3">
+          <div class="section3__flexCol">
+            <h1 class="section3__big_title">Попередні новини</h1>
+            <div class="section3__flexRow">
+              <div class="item">
+                <div class="section3__wrapper3">
+                  <div class="section3__flexCol1">
+                    <h2 class="section3__medium_title2">Новий строк</h2>
+                    <p class="section3__paragraph">
+                      Тепер офіційно новий строк постановки жінок на військовий облік 1 жовтня 2023 року
+                    </p>
+                    <h5 class="section3__highlights5">Детальніше</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="spacer"></div>
+              <div class="item">
+                <div class="section3__wrapper4">
+                  <div class="section3__flexCol2">
+                    <h2 class="section3__medium_title21">Обмеження чи стимулювання</h2>
+                    <p class="section3__paragraph1">
+                      Обмеження чи стимулювання доримання встановленого законом порядку
+                    </p>
+                    <h5 class="section3__highlights5">Детальніше</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="spacer1"></div>
+              <div class="item">
+                <div class="section3__wrapper4">
+                  <div class="section3__flexCol1">
+                    <h2 class="section3__medium_title2">Нові правила</h2>
+                    <p class="section3__paragraph11">Нові правила перетину кордону з Польщею</p>
+                    <h5 class="section3__highlights51">Детальніше</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="spacer"></div>
+              <div class="item">
+                <div class="section3__wrapper4">
+                  <div class="section3__flexCol1">
+                    <h2 class="section3__medium_title22">єВідрядження</h2>
+                    <p class="section3__paragraph12">єВідрядження Виїзд за кордон представниам бізнесу</p>
+                    <h5 class="section3__highlights52">Детальніше</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- ======= End section3 ======= --> 
+
+      </div>
+      <div class="item">
+        <!-- ======= section4 ======= --> 
+        <section class="section4__section4">
+          <div class="section4__wrapper" style="--src:url(/assets/8090e0a018000a9b2f89baccbe085108.png)">
+            <div class="section4__flexCol">
+              <div class="section4__flexCol1">
+                <div class="section4__flexRow">
+                  <div class="item">
+                    <div class="section4__flexCol2">
+                      <h5 class="section4__highlights">Phone</h5>
+                      <h5 class="section4__highlights3">+38011111111</h5>
+                    </div>
+                  </div>
+                  <div class="spacer"></div>
+                  <div class="item1">
+                    <div class="section4__flexCol2">
+                      <h5 class="section4__highlights1">Address</h5>
+                      <h5 class="section4__highlights3">Kiev Ukraine</h5>
+                    </div>
+                  </div>
+                </div>
+                <hr class="section4__line" size="1" />
+              </div>
+              <div class="section4__flexRow1">
+                <div class="item">
+                  <div class="section4__flexCol2">
+                    <h5 class="section4__highlights11">Services</h5>
+                    <h5 class="section4__highlights2">
+                      Strategy Design<br />Product Design<br />Content Strategy<br />Brand Strategy<br />Development
+                    </h5>
+                  </div>
+                </div>
+                <div class="spacer"></div>
+                <div class="item1">
+                  <div class="section4__flexCol3">
+                    <h5 class="section4__highlights12">Help And Advice</h5>
+                    <h5 class="section4__highlights4">
+                      How it works<br />Contact Support<br />Privacy Policy<br />FAQ
+                    </h5>
+                  </div>
+                </div>
+                <div class="spacer1"></div>
+                <div class="item">
+                  <div class="section4__flexCol3">
+                    <h5 class="section4__highlights11">Company</h5>
+                    <h5 class="section4__highlights2">About<br />Blog<br />Contact<br />Jobs</h5>
+                  </div>
+                </div>
+                <div class="spacer2"></div>
+                <div class="item2"><div class="section4__rect"></div></div>
+                <div class="spacer3"></div>
+                <div class="item3">
+                  <div class="section4__flexCol4">
+                    <h5 class="section4__highlights11">Get in Touch</h5>
+                    <h5 class="section4__highlights21">Feel free to get in touch with us vai email</h5>
+                    <h2 class="section4__medium_title">babenkoyk@gmail.com</h2>
+                    <div class="item">
+                      <img class="section4__image1" src="/assets/9977c4af3235f5127116a6cc61d67267.png" alt="alt text" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="section4__flexCol5">
+                <hr class="section4__line1" size="1" />
+                <div class="section4__flexRow2">
+                  <div class="item">
+                    <div class="section4__flexRow3">
+                      <div class="item">
+                        <img class="section4__icon" src="/assets/04a2a7cc8e5a95fe3a90604b8f2e9c02.png" alt="alt text" />
+                      </div>
+                      <div class="spacer"></div>
+                      <h2 class="section4__medium_title1">Babenko Yelyzaveta</h2>
+                    </div>
+                  </div>
+                  <div class="spacer"></div>
+                  <div class="item1">
+                    <div class="section4__text">
+                      © 2022@babenkoyelyzaveta.All rights reserved. Any use and copying of work is prohibited..
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="section4__wrapper1">
+            <div class="section4__wrapper2">
+              <h1 class="section4__hero_title">YOU ARE ONE IN A MILLION<br />BE YOUNG BE UNIQUE</h1>
+              <h5 class="">
+                <div class="section4__highlights41">
+                  <span class="section4__highlights41_span0"></span><span class="section4__highlights41_span1">  </span
+                  ><span class="section4__highlights41_span2">My gallery. author: Babenko Yelyzaveta</span>
+                </div>
+              </h5>
+            </div>
+          </div>
+        </section>
+        <!-- ======= End section4 ======= --> 
+
+      </div>
+    </main>
+    <script type="text/javascript">
+      AOS.init();
+    </script>
+  </body>
+</html>
